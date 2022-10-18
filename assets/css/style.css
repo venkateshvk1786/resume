@@ -277,6 +277,9 @@ transition:all  0.6s;
 .work-list:hover .layer{
     height: 100%;
 
-
-
+}
+/* course */
+.course{
+    margin-top: 10% !important ;
+    margin-bottom: 1% !important;
 }
